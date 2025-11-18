@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Typography Inspector Pro",
+  "name": "Typography Inspector",
   "version": "1.0",
-  "description": "Advanced typography analysis with web font detection",
+  "description": "typography analysis with web font detection",
   "permissions": ["activeTab", "scripting", "storage"],
   "host_permissions": ["http://*/*", "https://*/*"],
   "action": {
