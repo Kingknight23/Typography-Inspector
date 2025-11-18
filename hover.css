@@ -1,0 +1,9 @@
+
+.typography-inspector-tooltip{
+    position:fixed;z-index:999999;
+    padding:6px 8px;
+    background:#111;
+    color:#fff;
+    border-radius:6px;
+    font-size:12px
+}
